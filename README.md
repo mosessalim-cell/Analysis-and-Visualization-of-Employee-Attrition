@@ -20,8 +20,11 @@ Employee attrition merupakan salah satu tantangan yang banyak perusahaan alami. 
 
 ## Project Objectives
 Membangun pipeline data yang terautomasi dan terjadwal
+
 Melakukan data cleaning dan memastikan kualitas data
+
 Melakukan validasi data menggunakan Great Expectations
+
 Menyediakan visualisasi interaktif untuk analisis attrition
 
 ## Project Output
