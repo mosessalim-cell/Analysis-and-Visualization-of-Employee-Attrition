@@ -26,4 +26,4 @@ Dataset yang dipakai adalah dataset employee attrition yang berasal dari kaggle
 Projek ini menggunakan apache airflow untuk menjalankan DAG yang sudah ditentukan, Kibana untuk melakukan visualisasi, dan great expectation untuk data validasi
 
 ## Stacks
-Bahasa yang digunakan adalah python dengan libraries seperti pandas, great expectatoin, elasticsearch dan airflow DAG
+Bahasa yang digunakan adalah python dengan libraries seperti pandas, great expectation, elasticsearch dan airflow DAG
