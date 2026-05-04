@@ -1,0 +1,10 @@
+1. NOSQL adalah jenis database yang tidak menggunakan struktur tabel relasional baris-kolom seperti database tradisional.
+Berbeda dengan database relasional yang menggunakan tabel, NoSQL dapat menyimpan data dalam berbagai bentuk JSON, Key-value, Graph, dll 
+2. Penggunaan NOSQL cocok untuk situasi dimana data tidak terstruktur atau sering berubah. NOSQL juga memiliki performa lebih tinggi dan scalability besar
+Untuk Relational Database gunakan saat data terstruktur dan memiliki schema jelas. Konsistensi data sangat penting.
+3. MongoDB (Document-Oriented)
+Keunggulan: Memiliki format JSON yang mudah dipahami, schema yang flexible dan sangat baik skalibitasnya
+Apache Cassandra: Sangat scalable, cocok untuk big data dan sistem distribusi
+4. Airflow adalah tools untuk mengatur, menjadwalkan, dan mengelola workflow data secara automatis
+5. Great Expectation adalah tools untuk melakukan data validation dengan cara mengecek value-value dalam data dengan expectation yang sudah diset
+6. Batch Processing adalah cara mengolah data dalam jumlah besar sekaligus pada waktu tertentu
